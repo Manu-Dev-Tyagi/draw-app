@@ -1,3 +1,8 @@
+# A real-time collaborative drawing canvas with functionality, inspired by Excalidraw. Built with Next.js, TypeScript, and WebSockets.
+
+# Inspiration
+While developing a chat application, I realized that real-time collaboration fundamentally revolves around passing JSON data through WebSockets. This insight led me to create ExcaliDraw, where we transmit shape coordinates as structured JSON payloads, enabling seamless multi-user collaboration.
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
